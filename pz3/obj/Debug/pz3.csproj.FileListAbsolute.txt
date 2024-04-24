@@ -1,0 +1,7 @@
+C:\Users\Citrus\source\repos\pz3\pz3\obj\Debug\pz3.csproj.AssemblyReference.cache
+C:\Users\Citrus\source\repos\pz3\pz3\obj\Debug\pz3.csproj.CoreCompileInputs.cache
+C:\Users\Citrus\source\repos\pz3\pz3\bin\Debug\pz3.exe.config
+C:\Users\Citrus\source\repos\pz3\pz3\bin\Debug\pz3.exe
+C:\Users\Citrus\source\repos\pz3\pz3\bin\Debug\pz3.pdb
+C:\Users\Citrus\source\repos\pz3\pz3\obj\Debug\pz3.exe
+C:\Users\Citrus\source\repos\pz3\pz3\obj\Debug\pz3.pdb
